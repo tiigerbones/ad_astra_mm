@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "ad_astra_mm",
+	"version": "${version}",
+	"name": "Ad Astra: Mythic Metals",
+	"description": "Moves Mythic Metal Ores to Ad Astra Planets!",
+	"authors": [
+		"tiigerbones"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/ad-astra-mythic-metals",
+		"sources": "https://github.com/tiigerbones/ad_astra_mm"
+	},
+	"license": "MIT",
+	"icon": "assets/ad_astra_mm/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.enchantedwisp.aamm.AdAstraMythicMetals"
+		],
+		"fabric-datagen": [
+			"com.enchantedwisp.aamm.AdAstraMythicMetalsDataGenerator"
+		]
+	},
+	"mixins": [
+		"ad_astra_mm.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"ad_astra": ">=1.15.20",
+		"mythicmetals": ">=0.19.11+1.20.1"
+	}
+}

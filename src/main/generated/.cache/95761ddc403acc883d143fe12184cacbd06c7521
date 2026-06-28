@@ -1,0 +1,11 @@
+// 1.20.1	2026-06-28T00:10:09.4723706	Ad Astra: Mythic Metals/Tags for minecraft:block
+a9f62b340a86558947fbafe93c47d454137a401e data\mythicmetals\tags\blocks\stormyx_ores.json
+488fc9e1fed073f9a402b7de2f99520e3d0e6dad data\mythicmetals\tags\blocks\palladium_ores.json
+52a799010a51ffb888cc6a3b5abcd9db6cb0ed6b data\minecraft\tags\blocks\mineable\pickaxe.json
+2a24a89454ab18277bb89de7d690f95f225df1ea data\mythicmetals\tags\blocks\carmot_ores.json
+02536619b05d603803b1968506814bd46ae083b1 data\mythicmetals\tags\blocks\unobtainium_ores.json
+edac57cf98f00b96bdad907da982cca6874d798a data\minecraft\tags\blocks\needs_diamond_tool.json
+02536619b05d603803b1968506814bd46ae083b1 data\fabric\tags\blocks\needs_tool_level_4.json
+6d72b0acbf288e72c61a4f0a9dad9f508b484acf data\minecraft\tags\blocks\needs_iron_tool.json
+2f136f7a7e0eb4d65267cb82e177f2587b814b93 data\mythicmetals\tags\blocks\orichalcum_ores.json
+52a799010a51ffb888cc6a3b5abcd9db6cb0ed6b data\c\tags\blocks\ores.json

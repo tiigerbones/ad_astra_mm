@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ad_astra_mm:mars_carmot_ore",
+    "ad_astra_mm:moon_stormyx_ore",
+    "ad_astra_mm:mercury_palladium_ore",
+    "ad_astra_mm:venus_orichalcum_ore",
+    "ad_astra_mm:glacio_unobtainium_ore"
+  ]
+}

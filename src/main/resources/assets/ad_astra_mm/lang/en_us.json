@@ -1,0 +1,13 @@
+{
+  "block.ad_astra_mm.glacio_unobtainium_ore": "Glacio Unobtainium Ore",
+  "block.ad_astra_mm.mars_carmot_ore": "Mars Carmot Ore",
+  "block.ad_astra_mm.mercury_palladium_ore": "Mercury Palladium Ore",
+  "block.ad_astra_mm.venus_orichalcum_ore": "Venus Orichalcum Ore",
+  "block.ad_astra_mm.moon_stormyx_ore": "Moon Stormyx Ore",
+
+  "item.ad_astra_mm.glacio_unobtainium_ore": "Glacio Unobtainium Ore",
+  "item.ad_astra_mm.mars_carmot_ore": "Mars Carmot Ore",
+  "item.ad_astra_mm.mercury_palladium_ore": "Mercury Palladium Ore",
+  "item.ad_astra_mm.venus_orichalcum_ore": "Venus Orichalcum Ore",
+  "item.ad_astra_mm.moon_stormyx_ore": "Moon Stormyx Ore"
+}
